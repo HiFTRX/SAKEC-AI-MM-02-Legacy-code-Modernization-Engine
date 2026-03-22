@@ -96,15 +96,11 @@ legacy-code-modernization-engine/
 
 ### Clone Repository
 
-
-git clone <your-github-repo-url>.git
-cd legacy-code-modernization-engine
-
+git clone https://github.com/HiFTRX/SAKEC-AI-MM-02-Legacy-code-Modernization-Engine.git
 
 ---
 
 ### Backend Setup
-
 
 cd backend
 python -m venv venv
@@ -115,7 +111,6 @@ pip install -r ../requirements.txt
 ---
 
 ### Frontend Setup
-
 
 cd ../frontend
 npm install
