@@ -1,0 +1,2 @@
+MODEL_NAME = "codellama"
+MAX_CONTEXT_LINES = 150
